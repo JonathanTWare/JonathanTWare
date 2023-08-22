@@ -50,7 +50,7 @@
 
 </div>
 
-<div style="background-color: lightpink; padding: 10px;">
+<div align = center: style="background-color: lightpink; padding: 10px;">
     <div style="text-align: center; display: flex; justify-content: center;">
         <img src="https://img.icons8.com/color/48/000000/python.png" width="60" height="50">
         <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="50">
