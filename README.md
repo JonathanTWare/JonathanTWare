@@ -4,21 +4,31 @@
  
 <h2 align="left">👨🏻‍💻 About Me </h2>
 
-💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.\
+<h2>
+    💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
+</h2>
+<h2>
+    🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.
+</h2>
+<h2>
+    📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.
+</h2>
+<h2>
+    🌐 &nbsp;Fluent in English. I thrive in diverse collaborative environments.
+</h2>
+<h2>
+    🚀 &nbsp;On track to dive into the world of AWS Cloud Practicioner for my next adventure.
+</h2>
+<h2>
+    ✍️ &nbsp;In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.
+</h2>
+<h2>
+    ✉️ &nbsp;You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.
+</h2>
+<h2>
+    📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing">Résumé</a> for more details about me. I'm open to feedback and suggestions!<br>
+</h2>
 
-🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.\
-
-📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.\
-
-🌐 &nbsp;Fluent in English. I thrive in diverse collaborative environments.\
-
-🚀 &nbsp;On track to dive into the world of AWS Cloud Practicioner for my next adventure.\
-
-✍️ &nbsp;In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.\
-
-✉️ &nbsp;You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.\
-
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!<br>
 
 </div>
  
