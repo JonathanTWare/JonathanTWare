@@ -4,32 +4,25 @@
  
 <h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
-<div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        🌐 &nbsp;Fluent in English. I thrive in diverse collaborative environments.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        🚀 &nbsp;On track to dive into the world of AWS Cloud Practitioner for my next adventure.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        ✍️ &nbsp;In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        ✉️ &nbsp;You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.
-    </div>
-    <div style="font-size: 18px; margin-bottom: 10px;">
-        📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing">Résumé</a> for more details about me. I'm open to feedback and suggestions!<br>
-    </div>
-</div>
+<head>
+<style>
+  body {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<p>👨🏻‍💻 ABOUT ME</p>
+<p>💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
+<p>🎓  I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.</p>
+<p>📊  Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.</p>
+<p>🌐  Fluent in English. I thrive in diverse collaborative environments.</p>
+<p>🚀  On track to dive into the world of AWS Cloud Practitioner for my next adventure.</p>
+<p>✍️  In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.</p>
+<p>✉️  You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.</p>
+<p>📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
+</body>
 
 
 
