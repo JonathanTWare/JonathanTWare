@@ -50,8 +50,8 @@
 
 </div>
 
-<div align = center: style="background-color: lightpink; padding: 10px;">
-    <div style="text-align: center; display: flex; justify-content: center;">
+<div style="text-align: center; background-color: lightpink; padding: 10px;">
+    <div style="display: flex; justify-content: center;">
         <img src="https://img.icons8.com/color/48/000000/python.png" width="60" height="50">
         <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="50">
         <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="60" height="50">
@@ -63,6 +63,8 @@
         <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="60" height="50">
         <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="60" height="50">
     </div>
+</div>
+
 </div>
 
 
