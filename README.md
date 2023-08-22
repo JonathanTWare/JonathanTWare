@@ -4,14 +4,7 @@
  
 <h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
-<head>
-<style>
-  body {
-    font-size: 18px;
-    line-height: 1.5;
-  }
-</style>
-</head>
+
 <body>
 <p>👨🏻‍💻 ABOUT ME</p>
 <p>💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
