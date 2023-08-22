@@ -5,20 +5,34 @@
 <h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
 
+<html>
+<head>
+<style>
+  body {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .larger-font {
+    font-size: 24px;
+  }
+</style>
+</head>
 <body>
-<p>💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
-<p>🎓  I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.</p>
-<p>📊  Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.</p>
-<p>🌐  Fluent in English. I thrive in diverse collaborative environments.</p>
-<p>🚀  On track to dive into the world of AWS Cloud Practitioner for my next adventure.</p>
-<p>✍️  In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.</p>
-<p>✉️  You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.</p>
-<p>📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
+<p class="larger-font">👨🏻‍💻 ABOUT ME</p>
+<p class="larger-font">💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
+<p class="larger-font">🎓  I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.</p>
+<p class="larger-font">📊  Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.</p>
+<p class="larger-font">🌐  Fluent in English. I thrive in diverse collaborative environments.</p>
+<p class="larger-font">🚀  On track to dive into the world of AWS Cloud Practitioner for my next adventure.</p>
+<p class="larger-font">✍️  In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.</p>
+<p class="larger-font">✉️  You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.</p>
+<p class="larger-font">📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
 </body>
+</html>
 
 
 
-</div>
  
 <div align="center"> 
   <a href="jonathan.ware02@gmail.com">
