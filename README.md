@@ -6,8 +6,7 @@
 
 
 <body>
-<p class="larger-font">👨🏻‍💻 ABOUT ME</p>
-<p style="font-size: 24px;">💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
+<p class="larger-font">💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
 <p class="larger-font">🎓  I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.</p>
 <p class="larger-font">📊  Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.</p>
 <p class="larger-font">🌐  Fluent in English. I thrive in diverse collaborative environments.</p>
