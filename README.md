@@ -4,36 +4,31 @@
  
 <h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
-<style>
-    .about-section {
-        font-size: 18px;
-        margin-bottom: 10px;
-    }
-</style>
-
-<div class="about-section">
-    💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
-</div>
-<div class="about-section">
-    🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.
-</div>
-<div class="about-section">
-    📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.
-</div>
-<div class="about-section">
-    🌐 &nbsp;Fluent in English. I thrive in diverse collaborative environments.
-</div>
-<div class="about-section">
-    🚀 &nbsp;On track to dive into the world of AWS Cloud Practitioner for my next adventure.
-</div>
-<div class="about-section">
-    ✍️ &nbsp;In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.
-</div>
-<div class="about-section">
-    ✉️ &nbsp;You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.
-</div>
-<div class="about-section">
-    📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing">Résumé</a> for more details about me. I'm open to feedback and suggestions!<br>
+<div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        🌐 &nbsp;Fluent in English. I thrive in diverse collaborative environments.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        🚀 &nbsp;On track to dive into the world of AWS Cloud Practitioner for my next adventure.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        ✍️ &nbsp;In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        ✉️ &nbsp;You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.
+    </div>
+    <div style="font-size: 18px; margin-bottom: 10px;">
+        📄 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing">Résumé</a> for more details about me. I'm open to feedback and suggestions!<br>
+    </div>
 </div>
 
 
