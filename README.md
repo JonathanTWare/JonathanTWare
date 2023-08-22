@@ -2,7 +2,7 @@
 
  <hr/>
  
-<h2 align="left">👨🏻‍💻 About Me </h2>
+<h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
 <h2>
     💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
