@@ -42,7 +42,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 </div>
-
+<div align="center">
 <div style="display: flex; justify-content: center; align-items: center; background-color: lightpink; padding: 10px;">
     <img src="https://img.icons8.com/color/48/000000/python.png" width="60" height="50">
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="50">
@@ -55,6 +55,8 @@
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="60" height="50">
     <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="60" height="50">
 </div>
+</div>
+
 
 
 </div>
