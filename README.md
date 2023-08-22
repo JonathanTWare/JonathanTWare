@@ -6,7 +6,6 @@
 
 
 <body>
-<p>👨🏻‍💻 ABOUT ME</p>
 <p>💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
 <p>🎓  I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.</p>
 <p>📊  Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.</p>
