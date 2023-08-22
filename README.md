@@ -5,19 +5,6 @@
 <h1 style="font-size: 24px;">👨🏻‍💻 ABOUT ME</h1>
 
 
-<html>
-<head>
-<style>
-  body {
-    font-size: 18px;
-    line-height: 1.5;
-  }
-  
-  .larger-font {
-    font-size: 24px;
-  }
-</style>
-</head>
 <body>
 <p class="larger-font">👨🏻‍💻 ABOUT ME</p>
 <p class="larger-font">💡  I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.</p>
@@ -29,7 +16,7 @@
 <p class="larger-font">✉️  You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.</p>
 <p class="larger-font">📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
 </body>
-</html>
+
 
 
 
