@@ -13,7 +13,7 @@
 <p class="larger-font">🚀  On track to dive into the world of AWS Cloud Practitioner for my next adventure.</p>
 <p class="larger-font">✍️  In my free time, I engage in analytical research and build machine learning models that not only intrigue me but also have the potential to positively impact people's lives.</p>
 <p class="larger-font">✉️  You can shoot me an email at jonathan.ware02@gmail.com! I'll try to respond as soon as I can.</p>
-<p class="larger-font">📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
+<p class="larger-font">📄  Please have a look at my <a href="https://docs.google.com/document/d/1EkacCrYHmSmapx2-M489OyScFB3lzAnFzqzj79R_kiQ/edit?usp=sharing">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
 </body>
 
 
