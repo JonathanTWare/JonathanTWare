@@ -50,20 +50,19 @@
 
 </div>
 
-<div style="text-align: center; background-color: lightpink; padding: 10px;">
-    <div style="display: flex; justify-content: center;">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="60" height="50">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="50">
-        <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="60" height="50">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439" width="60" height="50">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="60" height="50">
-        <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width="60" height="50">
-        <img src="https://scipy.org/images/logo.svg" width="60" height="50">
-        <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" width="60" height="50">
-        <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="60" height="50">
-        <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="60" height="50">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; background-color: lightpink; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="60" height="50">
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="50">
+    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="60" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439" width="60" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="60" height="50">
+    <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width="60" height="50">
+    <img src="https://scipy.org/images/logo.svg" width="60" height="50">
+    <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" width="60" height="50">
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="60" height="50">
+    <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="60" height="50">
 </div>
+
 
 </div>
 
