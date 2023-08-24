@@ -55,6 +55,7 @@
     <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" width="60" height="50">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="60" height="50">
     <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="60" height="50">
+    <img src=" https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" width="60" height="50">
 </div>
 </div>
 
